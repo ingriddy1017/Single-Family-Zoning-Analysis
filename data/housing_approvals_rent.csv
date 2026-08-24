@@ -1,0 +1,37 @@
+city,year,cumulative_dwelling_approvals_per_1000,median_rent_index
+Minneapolis,2018,4,100
+Minneapolis,2019,12,97
+Minneapolis,2020,22,90
+Minneapolis,2021,34,84
+Minneapolis,2022,45,80
+Minneapolis,2023,50,79
+Omaha,2018,3,100
+Omaha,2019,7,102
+Omaha,2020,12,98
+Omaha,2021,18,94
+Omaha,2022,24,90
+Omaha,2023,28,88
+Columbus,2018,3,100
+Columbus,2019,7,103
+Columbus,2020,11,105
+Columbus,2021,16,108
+Columbus,2022,21,110
+Columbus,2023,25,109
+Kansas City,2018,2,100
+Kansas City,2019,6,104
+Kansas City,2020,10,107
+Kansas City,2021,15,111
+Kansas City,2022,19,113
+Kansas City,2023,22,111
+Cincinnati,2018,2,100
+Cincinnati,2019,5,105
+Cincinnati,2020,8,109
+Cincinnati,2021,11,114
+Cincinnati,2022,14,117
+Cincinnati,2023,16,115
+Indianapolis,2018,2,100
+Indianapolis,2019,5,104
+Indianapolis,2020,8,108
+Indianapolis,2021,11,113
+Indianapolis,2022,14,116
+Indianapolis,2023,17,114
