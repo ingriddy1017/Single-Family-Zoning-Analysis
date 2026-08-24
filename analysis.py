@@ -35,8 +35,9 @@ import seaborn as sns
 
 sns.set_theme(style="whitegrid", font_scale=1.0)
 
-DATA_DIR = "data"
-OUTPUT_DIR = "output"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "data")
+OUTPUT_DIR = os.path.join(BASE_DIR, "output")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 BLUE = "#1533C4"
